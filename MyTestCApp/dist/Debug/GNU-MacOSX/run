@@ -1,0 +1,2 @@
+cp ~/Dropbox/dev/MyJavaLibrary_C/dist/Debug/GNU-MacOSX/libMyJavaLibrary_C.dylib .
+./mytestcapp

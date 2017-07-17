@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jli:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/server:/Users/ericjbruno/Dropbox/dev/MyJavaLibrary_C/dist/Debug/GNU-MacOSX
